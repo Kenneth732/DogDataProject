@@ -1,0 +1,44 @@
+{
+  "animalsData": [
+    {
+      "name": "Dog1",
+      "imageUrl": "https://i.pinimg.com/564x/fa/a2/d6/faa2d6c48cfff6b3e5b0b1b251c44c1d.jpg",
+      "description": "The German Shepherd or Alsatian is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep",
+      "comments": "Nice dog",
+      "donations": 420,
+      "id": 1
+    },
+    {
+      "name": "Dog1",
+      "imageUrl": "https://i.pinimg.com/564x/4a/d0/e6/4ad0e66be4eff99c0d0da420ff5b7932.jpg",
+      "description": "The German Shepherd or Alsatian is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep",
+      "comments": "Nice dog",
+      "donations": 490,
+      "id": 2
+    },
+    {
+      "name": "Dog1",
+      "imageUrl": "https://i.pinimg.com/564x/da/7d/3e/da7d3ec3f07675208b3c231e81b5dd1e.jpg",
+      "description": "The German Shepherd or Alsatian is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep",
+      "comments": "Nice dog",
+      "donations": 500,
+      "id": 3
+    },
+    {
+      "name": "",
+      "imageUrl": "https://i.pinimg.com/564x/10/7f/c4/107fc43eac4e3efd58f6ec4fddc3db9f.jpg",
+      "description": "The Border Collie is a breed of herding dog of medium size. Widely considered to be the most intelligent dog breed, they are descended from landrace sheepdogs once found all over the British Isles, but became standardised in the Anglo-Scottish border region.",
+      "comments": "",
+      "donations": 500,
+      "id": 4
+    },
+    {
+      "name": "",
+      "imageUrl": "https://i.pinimg.com/564x/a3/00/1d/a3001d4b3bb6b80f0a4e13eeb3ae3ad2.jpg",
+      "description": "The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries.",
+      "comments": "",
+      "donations": 750,
+      "id": 5
+    }
+  ]
+}
